@@ -8,11 +8,11 @@ Welcome to my 30-day challenge where I build small yet powerful JavaScript proje
 
 ## 📅 Challenge Progress
 
-| Day | Status    | Project Title    | 🔗 Live Demo                                          | 💻 Source Code                      |
-| --- | --------- | ---------------- | ----------------------------------------------------- | ----------------------------------- |
-| 01  | ✅ Done   | Tic Tac Toe Game | [Play Now](https://malik-tic-tac-toe.vercel.app/)     | [View Code](01-tic-tac-toe-project) |
-| 02  | 🔜 Coming | Analog Clock     | [Coming Soon](https://malik-analog-clock.vercel.app/) | [View Code](02-clock-project)       |
-| 03  | 🔜 Coming | Coming Soon      | –                                                     | –                                   |
+| Day | Status         | Project Title    | 🔗 Live Demo                                          | 💻 Source Code                      |
+| --- | -------------- | ---------------- | ----------------------------------------------------- | ----------------------------------- |
+| 01  | ✅ Done        | Tic Tac Toe Game | [Play Now](https://malik-tic-tac-toe.vercel.app/)     | [View Code](01-tic-tac-toe-project) |
+| 02  | 🔜 Coming Soon | Analog Clock     | [Coming Soon](https://malik-analog-clock.vercel.app/) | [View Code](02-clock-project)       |
+| 03  | 🔜 Coming Soon | Coming Soon      | –                                                     | –                                   |
 
 > ✅ = Completed 🔜 = Coming Soon
 
