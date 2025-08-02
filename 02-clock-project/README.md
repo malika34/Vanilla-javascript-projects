@@ -79,4 +79,4 @@ This clock is more than just a visual — it’s a **proof of concept** that I c
 
 > 🧭 "Every second counts, and so does every line of code!" ⏳
 
-🔗 **Live Demo:** [Click Here]()
+🔗 **Live Demo:** [Click Here](https://malik-analog-clock.vercel.app/)

@@ -8,15 +8,15 @@ Welcome to my 30-day challenge where I build small yet powerful JavaScript proje
 
 ## 📅 Challenge Progress
 
-| Day | Project Title          | Live Demo                                            | Source Code                        |
-|-----|------------------------|----------------------------------------------------- |------------------------------------|
-| 01  | ✅ Tic Tac Toe Game    | [Play Now](https://malik-tic-tac-toe.vercel.app/)   | [Code](01-tic-tac-toe-project)     |
-| 02  | 🔜 Coming Soon         | –                                                   | –                                  |
-| 03  | 🔜 Coming Soon         | –                                                   | –                                  |
+| Day | Project Title       | Live Demo                                          | Source Code                    |
+| --- | ------------------- | -------------------------------------------------- | ------------------------------ | --- |
+| 01  | ✅ Tic Tac Toe Game | [Play Now](https://malik-tic-tac-toe.vercel.app/)  | [Code](01-tic-tac-toe-project) |
+| 02  | 🔜 Coming Soon      | [Play Now](https://malik-analog-clock.vercel.app/) | [Code](02-clock-project)       | –   |
+| 03  | 🔜 Coming Soon      | –                                                  | –                              |
 
 > ✔️ = Completed 🔜 = Coming Soon
 
---- 
+---
 
 ## 📌 Tech Stack
 
@@ -52,4 +52,3 @@ I’ll be updating this repo **daily** with new projects. Stay tuned and feel fr
 Special thanks to mentors, online tutorials, and communities that guided me in this journey.
 
 ---
-
