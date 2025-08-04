@@ -8,11 +8,12 @@ Welcome to my 30-day challenge where I build small yet powerful JavaScript proje
 
 ## 📅 Challenge Progress
 
-| Day | Status         | Project Title    | 🔗 Live Demo                                       | 💻 Source Code                     |
-| --- | -------------- | ---------------- | -------------------------------------------------- | ----------------------------------- |
-| 01  | ✅ Done        | Tic Tac Toe Game | [Play Now](https://malik-tic-tac-toe.vercel.app/)  | [View Code](01-tic-tac-toe-project) |
-| 02  | ✅ Done        | Analog Clock     | [Play Now](https://malik-analog-clock.vercel.app/) | [View Code](02-clock-project)       |
-| 03  | ✅ Done        | Car Game         | [Play Now](https://malik-car-game.vercel.app/)     | [View Code](03-car-game-project)    |
+| Day | Status         | Project Title    | 🔗 Live Demo                                       | 💻 Source Code                                                   |
+| --- | -------------- | ---------------- | -------------------------------------------------- | -----------------------------------                               |
+| 01  | ✅ Done        | Tic Tac Toe Game | [Play Now](https://malik-tic-tac-toe.vercel.app/)  | [View Code](01-tic-tac-toe-project)                               |
+| 02  | ✅ Done        | Analog Clock     | [Play Now](https://malik-analog-clock.vercel.app/) | [View Code](02-clock-project)                                     |
+| 03  | ✅ Done        | Car Game         | [Play Now](https://malik-car-game.vercel.app/)     | [View Code](03-car-game-project)                                  |
+| 04  | ✅ Done        | Snake Game       | [Play Now](https://malik-snake-game.vercel.app/)   | [View Code](https://github.com/malika34/Snake-game-js-project.git)|
 
 > ✅ = Completed 🔜 = Coming Soon
 
