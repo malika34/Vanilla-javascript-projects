@@ -22,10 +22,11 @@ Welcome to my 30-day challenge where I build small yet powerful JavaScript proje
 | 10  | ✅ Done | Email Validator            | [Play Now](https://malik-email-validator.vercel.app/)      | [View Code](https://github.com/malika34/Email-validator-js-project)        |
 | 11  | ✅ Done | Todo App                   | [Play Now](https://malik-todo-app.vercel.app/)             | [View Code](https://github.com/malika34/Todo-app-js-project)               |
 | 12  | ✅ Done | Quiz App                   | [Play Now](https://malik-quiz-app.vercel.app/)             | [View Code](https://github.com/malika34/Quiz-app-js-project)               |
-| 13  | ✅ Done | Random Password Generator  | [Play Now](https://malik-random-password-generator.vercel.app/) | [View Code](https://github.com/malika34/Random-password-js-project)   |
+| 13  | ✅ Done | Random Password Generator  | [Play Now](https://malik-random-password-generator.vercel.app/) | [View Code](https://github.com/malika34/Random-password-js-project) |
+| 14  | ✅ Done | Notes app                  | [Play Now](https://malik-notes-app.vercel.app/)            |[View Code](https://github.com/malika34/Notes-app-js-project.git)           |
+| 15  | ✅ Done | Age calculator             | [Play Now](https://malik-age-calculator.vercel.app/)       |[View Code](https://github.com/malika34/age-calculator-js-project.git)     |
 
-
-> ✅ = Completed 🔜 = Coming Soon
+> ✅ = Completed 🔜 = Coming Soon 
 
 ---
 
