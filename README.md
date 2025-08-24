@@ -25,6 +25,8 @@ Welcome to my 30-day challenge where I build small yet powerful JavaScript proje
 | 13  | ✅ Done | Random Password Generator  | [Play Now](https://malik-random-password-generator.vercel.app/) | [View Code](https://github.com/malika34/Random-password-js-project) |
 | 14  | ✅ Done | Notes app                  | [Play Now](https://malik-notes-app.vercel.app/)            |[View Code](https://github.com/malika34/Notes-app-js-project.git)           |
 | 15  | ✅ Done | Age calculator             | [Play Now](https://malik-age-calculator.vercel.app/)       |[View Code](https://github.com/malika34/age-calculator-js-project.git)     |
+| 16  | ✅ Done | QR code generator          | [Play Now](https://malik-qr-code.vercel.app/)              |[View Code](https://github.com/malika34/Qr-code-js-project.git)                     |
+| 17  | ✅ Done | Notification bar          | [Play Now](https://malik-notification-bar.vercel.app/)      |[View Code](https://github.com/malika34/Notification-bar-js-project.git)    |
 
 > ✅ = Completed 🔜 = Coming Soon 
 
