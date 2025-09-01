@@ -28,12 +28,13 @@ Welcome to my 30-day challenge where I build small yet powerful JavaScript proje
 | 16  | ✅ Done | QR code generator          | [Play Now](https://malik-qr-code.vercel.app/)              |[View Code](https://github.com/malika34/Qr-code-js-project.git)                     |
 | 17  | ✅ Done | Notification bar          | [Play Now](https://malik-notification-bar.vercel.app/)      |[View Code](https://github.com/malika34/Notification-bar-js-project.git)    |
 | 18  | ✅ Done | Music player              | [Play Now](https://malik-music-player.vercel.app/)          |[View Code](https://github.com/malika34/Music-player-js-project.git)    |
-| 19  | ✅ Done | Stop watch                | [Play Now](https://malik-stop-watch.vercel.app/)            |[View Code](https://github.com/malika34/Stop-watch-js-project.git)                 |
+| 19  | ✅ Done | Form validation           | [Play Now](https://malik-form-validation.vercel.app/)       |[View Code](https://github.com/malika34/Form-validation-js-project.git)    |
 | 20  | ✅ Done | Stop watch                | [Play Now](https://malik-stop-watch.vercel.app/)            |[View Code](https://github.com/malika34/Stop-watch-js-project.git)                 |
 | 21  | ✅ Done | Model box                 | [Play Now](https://malik-model-box.vercel.app/)            |[View Code](https://github.com/malika34/Model-box-js-project.git)                   |
 | 22  | ✅ Done | Toggle passord            |[Play Now](https://malik-model-box.vercel.app/)             |[View Code](https://github.com/malika34/Toggle-password-js-project.git)    |
 | 23  | ✅ Done | Theme toggle              |[Play Now](https://malik-theme-toggle.vercel.app/)          |[View Code](https://github.com/malika34/Toggle-password-js-project.git)    |
 | 24  | ✅ Done | H scroll slider           |[Play Now](https://malik-h-scroll-slider.vercel.app/)       |[View Code](https://github.com/malika34/Horizontal-scroll-slider-js-project.git)    |
+| 25  | ✅ Done | Circulation progress      |[Play Now](https://malik-circulation-progress.vercel.app/)  |[View Code](https://github.com/malika34/Circulation-progress-js-project.git)    |
 > ✅ = Completed 🔜 = Coming Soon 
 
 ---
