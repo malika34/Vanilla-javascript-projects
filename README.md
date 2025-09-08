@@ -35,7 +35,12 @@ Welcome to my 30-day challenge where I build small yet powerful JavaScript proje
 | 23  | ✅ Done | Theme toggle              |[Play Now](https://malik-theme-toggle.vercel.app/)          |[View Code](https://github.com/malika34/Toggle-password-js-project.git)    |
 | 24  | ✅ Done | H scroll slider           |[Play Now](https://malik-h-scroll-slider.vercel.app/)       |[View Code](https://github.com/malika34/Horizontal-scroll-slider-js-project.git)    |
 | 25  | ✅ Done | Circulation progress      |[Play Now](https://malik-circulation-progress.vercel.app/)  |[View Code](https://github.com/malika34/Circulation-progress-js-project.git)    |
-> ✅ = Completed 🔜 = Coming Soon 
+| 26  | ✅ Done | Password strength         |[Play Now](https://malik-password-strength.vercel.app/)     |[View Code](https://github.com/malika34/Password-strength-js-project.git)    |
+| 27  | ✅ Done | Working email             |[Play Now](https://malik-working-email.vercel.app/)         |[View Code](https://github.com/malika34/Working-email-js-project.git)     |
+| 28  | ✅ Done | Drag & drop               |[Play Now](https://malik-drag-drop.vercel.app/)             |[View Code](https://github.com/malika34/Drag-drop-js-project.git)                    |
+| 29  | ✅ Done | Product page              |[Play Now](https://malik-product-page.vercel.app/)          |[View Code](https://github.com/malika34/Product-page-js-project.git)     |
+| 30  | ✅ Done | Image search engine       |[Play Now](https://malik-image-search-engine.vercel.app/)   |[View Code](https://github.com/malika34/Image-search-engine-js-project.git)    |
+> ✅ = Completed 
 
 ---
 
@@ -66,11 +71,7 @@ Most project ideas are inspired by:
 
 ---
 
-## 📈 Updates
-
-I’ll be updating this repo **daily** with new projects.
-
-Stay tuned, and feel free to **⭐ Star** or **Fork** this repository!
+Please **⭐ Star** or **Fork** this repository!
 
 ---
 
